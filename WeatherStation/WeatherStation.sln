@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherStation", "WeatherStation\WeatherStation.csproj", "{05EFBA73-499F-439A-AC01-DF6E41D20ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "..\Database\Database\Database.csproj", "{BB1C8ACC-6A0B-BE3D-AA0C-0C12726FBCD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05EFBA73-499F-439A-AC01-DF6E41D20ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EFBA73-499F-439A-AC01-DF6E41D20ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EFBA73-499F-439A-AC01-DF6E41D20ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EFBA73-499F-439A-AC01-DF6E41D20ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1C8ACC-6A0B-BE3D-AA0C-0C12726FBCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1C8ACC-6A0B-BE3D-AA0C-0C12726FBCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1C8ACC-6A0B-BE3D-AA0C-0C12726FBCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1C8ACC-6A0B-BE3D-AA0C-0C12726FBCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C45C04-2A73-47F7-9CA0-334CAF1F6B1B}
+	EndGlobalSection
+EndGlobal
